@@ -165,7 +165,7 @@
               <sentBytes>true</sentBytes>
               <url>true</url>
               <threadCounts>true</threadCounts>
-              <idleTime>true</idleTime>
+              <idleTime>true</idleTim>
               <connectTime>true</connectTime>
             </value>
           </objProp>
